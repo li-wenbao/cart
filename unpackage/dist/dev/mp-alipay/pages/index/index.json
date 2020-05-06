@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "uni-app",
+  "usingComponents": {
+    "shopcart": "/components/shopcart",
+    "cartcontrol": "/components/cartcontrol"
+  }
+}
